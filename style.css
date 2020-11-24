@@ -5,6 +5,7 @@
   }
   body{
     cursor: pointer;
+    background-image: url("bg1.jpg");
   }
   h1
   {
